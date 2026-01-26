@@ -1,7 +1,7 @@
 url: https://staging.bluecripto.com.br/docs
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2026-01-25T23:11:54.074Z
+status: down
+code: 502
+responseTime: 132
+lastUpdated: 2026-01-26T18:56:45.602Z
 startTime: 2026-01-02T01:33:44.040Z
 generator: Upptime <https://github.com/upptime/upptime>
