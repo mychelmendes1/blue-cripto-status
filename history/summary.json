@@ -6,7 +6,7 @@
     "slug": "blue-cripto-app",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2026-01-20": 17,
       "2026-01-02": 4
     }
@@ -27,7 +28,7 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -37,6 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2026-01-20": 18,
       "2026-01-02": 4
     }
@@ -47,17 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.bluecripto.com.br.ico",
     "slug": "documentacao",
     "status": "down",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2026-01-21": 125,
       "2026-01-20": 18,
       "2026-01-02": 4
