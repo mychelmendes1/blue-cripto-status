@@ -1,7 +1,7 @@
 url: https://staging.bluecripto.com.br/api/health
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2026-02-13T23:21:18.677Z
+status: down
+code: 502
+responseTime: 106
+lastUpdated: 2026-02-14T11:00:05.668Z
 startTime: 2026-01-02T01:33:43.524Z
 generator: Upptime <https://github.com/upptime/upptime>
