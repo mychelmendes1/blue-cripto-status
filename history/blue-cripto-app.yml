@@ -1,7 +1,7 @@
 url: https://staging.bluecripto.com.br
-status: degraded
+status: down
 code: 521
-responseTime: 10748
-lastUpdated: 2026-03-05T14:11:46.610Z
+responseTime: 404
+lastUpdated: 2026-03-05T15:07:23.900Z
 startTime: 2026-01-02T01:33:41.629Z
 generator: Upptime <https://github.com/upptime/upptime>
